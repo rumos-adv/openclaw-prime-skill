@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Prime"
+  short_description: "Prime context with OpenClaw admin docs"
+  default_prompt: "Use $openclaw-prime to load the OpenClaw docs map and admin context before planning or executing changes."
